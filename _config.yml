@@ -6,21 +6,20 @@ description: >- # site description
 lang: en-US # default lang
 timezone: Asia/Jakarta # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
-repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
+repo: https://github.com/v3n0m-hx0r/ # site repo [optional]
 mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
   name: v3n0m # author name
   bio: >- # tell to the world
-    Hello This is v3n0m, light and dark mode support, for running a personal site and blog, 
-    meet Klisé theme at <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">@github</a>.
-  username: username # general username
-  github: github_username # github username
-  twitter: twitter_username # twitter username
+    Hello This is v3n0m, i am a student who learn web-app pentesting  <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">@github</a>.
+  username: v3n0m # general username
+  github: v3n0m-hx0r # github username
+  twitter: v3n0m-hx0r # twitter username
   facebook: facebook_username # facebook username
-  email: your-email@email.com # email adress
-  avatar: /assets/img/avatar.jpg # change with your own avatar
+  email: niran1470@email.com # email adress
+  avatar: /assets/img/wblogo.jpg # change with your own avatar
 
 # URL settings
 url: "https://klise.now.sh" #
