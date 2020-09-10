@@ -12,7 +12,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: v3n0m # author name
   bio: >- # tell to the world
-    Hello This is v3n0m, i am a student who learn web-app pentesting  <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">@github</a>.
+    Hello This is v3n0m, i am a student who Does Ctf once in a while and learn web app pentesting. if you are looking for some sorted ctf tools do check out  <a href="https://github.com/apsdehal/awesome-ctf" target="_blank" rel="noopener">ctf-tools</a>.
   username: v3n0m # general username
   github: v3n0m-hx0r # github username
   twitter: v3n0m-hx0r # twitter username
