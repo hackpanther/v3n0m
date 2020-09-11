@@ -12,7 +12,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: v3n0m # author name
   bio: >- # tell to the world
-    Hello This is <b>v3n0m (Niranchan) </b>, i am a student who Does <b class="blinking_cursor">Ctf</b> once in a while and learn web app pentesting. if you are looking for some sorted ctf tools do check out <a href="https://github.com/apsdehal/awesome-ctf" target="_blank" rel="noopener"><code>ctf-tools</code></a>. 
+    Hello This is <b>v3n0m (Niranchan) </b>, i am a student who Does Ctf once in a while and learn web app pentesting. if you are looking for some cool ctf tools do check out <a href="https://github.com/apsdehal/awesome-ctf" target="_blank" rel="noopener"><code>ctf-tools</code></a>. 
   username: v3n0m # general username
   github: v3n0m-hx0r # github username
   twitter: v3n0m-hx0r # twitter username
